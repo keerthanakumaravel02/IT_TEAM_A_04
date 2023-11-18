@@ -1,0 +1,16 @@
+.register-block{
+    float:left;
+    width:100%;
+    padding : 50px 0;
+}
+
+.container{background:rgb(199, 218, 218); border-radius: 10px; width: 40%; height: 40%;}
+.register-sec{padding: 50px; }
+.register-sec h2{margin-bottom:30px; font-weight:800; font-size:30px; color: #51ada9;}
+.register-sec h2:after{content:" "; width:100px; height:5px; background:#6ec6ff; display:block; margin-top:20px; border-radius:3px; margin-left:auto;margin-right:auto}
+.btn-login{background: #68c2bd; color:rgb(9, 12, 12); font-weight:600;}
+
+
+
+  /* ... (existing styles) */
+  
